@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "649819481598",
+    "project_id": "vegesea",
+    "storage_bucket": "vegesea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649819481598:android:88b480336858446974ccaf",
+        "android_client_info": {
+          "package_name": "com.vegesea.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649819481598-2spc6hf8ck093dr0d2gfio1di6nsvkbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vegesea.app",
+            "certificate_hash": "8328508220e922df76dabbcc60479520d2e4e413"
+          }
+        },
+        {
+          "client_id": "649819481598-r9kbdiihnel5nb84hhcf0lf27b7jq6l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vegesea.app",
+            "certificate_hash": "58c716881be3f5c0e24fbf19c198a9d67d914ada"
+          }
+        },
+        {
+          "client_id": "649819481598-fktllb8b0cgnp1p6npgq33r5ak61413s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIKXraA6jvTsRiMI7Pftw7KgVKymaB4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649819481598-fktllb8b0cgnp1p6npgq33r5ak61413s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

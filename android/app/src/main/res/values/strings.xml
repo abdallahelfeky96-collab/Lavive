@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name"> LAVIVE </string>
+    <string name="facebook_app_id">2384874368648435</string>
+    <string name="facebook_client_token">f43b2a39dd0347ab49b03fd351d15db5</string>
+    <string name="fb_login_protocol_scheme">fb2384874368648435</string>
+    <string name="default_web_client_id">649819481598-fktllb8b0cgnp1p6npgq33r5ak61413s.apps.googleusercontent.com</string>
+    <string name="server_client_id">649819481598-r9kbdiihnel5nb84hhcf0lf27b7jq6l3.apps.googleusercontent.com</string>
+
+</resources>

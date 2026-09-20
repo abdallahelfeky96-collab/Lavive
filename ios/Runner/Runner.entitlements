@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- ChottuLink Universal Links. Replace CHOTTULINK_DOMAIN with your ChottuLink subdomain, e.g. lavive.chottu.link
+	     MANUAL XCODE STEP (not code): in Xcode, select the Runner target > Signing & Capabilities, add the
+	     "Associated Domains" capability, and make sure CODE_SIGN_ENTITLEMENTS points to Runner/Runner.entitlements.
+	     Also enable Associated Domains for the App ID in the Apple Developer portal and regenerate the provisioning profile. -->
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:lavive.chottu.link</string>
+		<string>applinks:go.lavive.app</string>
+		<string>applinks:offer.lavive.app</string>
+		<string>applinks:shop.lavive.app</string>
+		<string>applinks:box.lavive.app</string>
+	</array>
+</dict>
+</plist>
